@@ -55,3 +55,19 @@ int main() {
     
     return 0;
 }
+
+
+//OUTPUT
+Enter the number of elements in the array: 7
+Enter 7 elements:
+Element[0]: 7
+Element[1]: 9
+Element[2]: 12
+Element[3]: 6
+Element[4]: 8
+Element[5]: 5
+Element[6]: 4
+
+Enter the target element to search for: 8
+
+Element 8 found at index: 4
